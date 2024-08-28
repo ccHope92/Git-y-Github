@@ -22,7 +22,8 @@ El texto puede ser desencriptado para recuperar su forma original utilizando las
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](ruta/a/la/captura.png)
+![Captura de Pantalla](Captura%20de%20pantalla.jpg)
+
 
 ## Requisitos
 
